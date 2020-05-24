@@ -9,10 +9,17 @@
     },
     {
       "id": 2,
-      "message": "Fixed Hard Drive on workstation 002",
+      "message": "Hard drive failed on workstation 002",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2020-05-24T19:58:11.278Z"
+    },
+    {
+      "message": "Fixed unresponsive mouse",
       "attention": false,
       "tech": "Sara Wilson",
-      "date": "2020-05-24T06:52:47.920Z"
+      "date": "2020-05-24T20:00:37.324Z",
+      "id": 3
     }
   ],
   "techs": [
