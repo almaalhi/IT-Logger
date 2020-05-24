@@ -6,6 +6,13 @@
       "tech": "John Doe",
       "date": "2020-05-22T18:13:26.548Z",
       "id": 1
+    },
+    {
+      "id": 2,
+      "message": "Fixed Hard Drive on workstation 002",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2020-05-24T06:52:47.920Z"
     }
   ],
   "techs": [
